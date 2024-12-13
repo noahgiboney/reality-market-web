@@ -1,0 +1,17 @@
+{
+    "applinks": {
+      "details": [
+        {
+          "appIDs": [
+            "94GUNU2NWX.com.noahgiboney.RealityMarket"
+          ],
+          "components": [
+            {
+              "/": "/listings/*",
+              "comment": "Matches any URL whose path starts with /list/"
+            }
+          ]
+        }
+      ]
+    }
+  }
