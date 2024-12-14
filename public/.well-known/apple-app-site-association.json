@@ -8,7 +8,7 @@
           "components": [
             {
               "/": "/listings/*",
-              "comment": "Matches any URL whose path starts with /list/"
+              "comment": "Matches any URL whose path starts with /listings/"
             }
           ]
         }
