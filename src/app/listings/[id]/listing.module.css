@@ -1,0 +1,17 @@
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .main {
+    text-align: center;
+  }
+  
+  .logo {
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+  }
+  
