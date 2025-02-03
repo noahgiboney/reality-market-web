@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "Reality Market",
   description: "The future of shopping.",
   icons: {
-    icon: "RMWhiteLogo.svg"
+    icon: "/RMWhiteLogo.svg"
   }
 };
 
