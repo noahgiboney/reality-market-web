@@ -13,10 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Reality Market",
-  description: "The future of shopping.",
-  icons: {
-    icon: "/RMWhiteLogo.svg"
-  }
+  description: "The future of shopping."
 };
 
 export default function RootLayout({
